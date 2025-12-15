@@ -1,84 +1,74 @@
-# 👋 Hi, I’m Jagrit Sachdev
+# jagrit sachdev
 
-**🚀 Developer | Python & AI Specialist | Founder @ Zylon Labs & Zuup | Hack Club Leader | Intel Student Ambassador**
+developer • ai engineer • founder
 
----
-
-## 🧠 About Me
-
-I’m Jagrit — a 16‑year‑old developer, entrepreneur, and designer who builds tech that matters. I specialize in AI, full-stack development, and educational technology, always mixing creativity with logic. I code for fun, but everything I make solves real problems.
-
-💡 **Founder & CEO at Zylon Labs** – creating AI-powered and community-driven tech  
-🌍 **Founder of Zuup** – empowering lives through digital skills and freelancing  
-🎓 **Hack Club Leader** | **Intel Student Ambassador**  
-🏫 Student at BBPSRH, Delhi
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🔧 Projects I'm Building
+## currently
 
-- 🛡️ **Dvorak** – AI-based security and attendance system for schools  
-- 📚 **Zylon EdTech** – distraction-free learning with notes, quizzes, and parental tools  
-- 🛍️ **Zylo1Km** – hyperlocal delivery system (within 1km radius) for small stores  
-- 🌱 **Zuup** – teaching freelancing & creative digital skills to underprivileged youth
-
----
-
-## 🌟 Featured Projects – Must Check Out!
-
-> These are some side projects I’m proud of — creative, functional, and impactful.
-
-- 🎙️ [**Sitara Podcast**](https://github.com/Jagrit0711/sitaraPODCAST) – A fully coded, multi-episode podcast site for unique voices  
-- 📰 [**DadNews**](https://github.com/Jagrit0711/dadnews) – Humorous but clean news site clone with fast UI and Python-backed logic  
-- 📖 [**StudyMan**](https://github.com/Jagrit0711/studyman) – Study planner and note manager with offline-first features
+- **founder & ceo** at zylon labs — edtech and ai-driven security
+- **founder** at zuup — digital skills training for underprivileged youth
+- **ex intel student ambassador**
+- **hack club leader** at bal bharati public school, rohini
 
 ---
 
-## 💻 Tech Stack
+## featured projects
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### [hatchos](https://github.com/Jagrit0711/HatchOS)
+custom os for raspberry pi 5 hardware automation. central server + react web app for device control and ai-driven automation testing.
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-![NodeMCU](https://img.shields.io/badge/-NodeMCU-0062FF?style=flat&logo=esp8266&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
 
----
+### [ai skill gap identifier](https://github.com/Jagrit0711/AI-Based-Skill-Gap-Identification-for-Freelancing-Readiness-in-Marginalized-Group)
+ml system matching underprivileged learners with freelance market demand. uses tf-idf, jaccard similarity, and streamlit dashboard.
 
-## 📚 Currently Learning
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16150774.svg)](https://doi.org/10.5281/zenodo.16150774)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-- 🤖 TensorFlow & Deep Learning  
-- 🧠 AI Model Optimization & Prompt Engineering  
-- 🔒 Cybersecurity & Ethical Hacking  
-- 📱 React Native + Firebase Cloud Integration  
+**datasets**: upwork job postings 2024 • freelancer data analysis • lloyds consumer digital index 2022 • ons uk unemployment 2021
 
----
-
-## 🤝 Community & Leadership
-
-- 🧠 **Intel Student Ambassador**  
-- 💬 **Hack Club Leader** – conducting workshops & peer sessions  
-- 🚀 Mentored 20+ interns at Zylon Labs  
-- 📈 Building startups while still in school
+### other projects
+- **sitara podcast** — multi-episode podcast platform
+- **dadnews** — python news website clone
+- **studyman** — offline-first study planner
 
 ---
 
-## 🌐 Let's Connect
+## tech stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jagritsachdev)  
-📫 Email: jagritsachdev7@gmail.com  
+**languages**: python • javascript • c++
+
+**frameworks**: react • tailwind css • flask • express.js • opencv
+
+**tools**: firebase • nodemcu • tensorflow • streamlit • pandas • scikit-learn
+
+**currently exploring**: deep learning optimization • prompt engineering • ethical hacking • react native • cloud architecture
 
 ---
 
-## ✨ Fun Fact
+## impact
 
-> “I build MVPs faster than I finish Netflix series.”
+- mentored 20+ interns at zylon labs
+- partnered with ngos through zuup for digital literacy programs
+- conducted coding workshops for 100+ students
+- published research on ai for social good
 
 ---
 
-Thanks for checking out my profile! ⭐ Feel free to explore my projects, reach out for collabs, or just say hi.
+## connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagritsachdev)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jagritsachdev7@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jagrit0711)
+
+open to collaborations, research projects, and conversations about ai, social innovation, and building impactful technology.
