@@ -10,8 +10,6 @@ i'm jagrit — a 17-year-old developer, entrepreneur, and designer from delhi wh
 
 i'm the founder and ceo of **zylon labs**, where i lead innovation across multiple verticals — from edtech platforms to ai-driven security systems. through **zuup**, my non-profit initiative, i'm working to empower underprivileged communities by teaching digital and freelancing skills that open doors to real economic opportunity.
 
-currently balancing life as a high school student at bal bharati public school, rohini (delhi) while running startups, conducting research, and leading tech communities. i don't believe in waiting for graduation to start building the future.
-
 **what i'm doing right now:**
 - founder & ceo at **zylon labs** — creating ai-powered educational and security tech
 - founder at **zuup** — teaching digital skills and freelancing to underserved youth
