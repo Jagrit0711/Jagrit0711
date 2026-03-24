@@ -1,4 +1,4 @@
-# hi, i'm jagrit sachdev
+# hi, i'm jagrit 
 
 **developer | ai & python specialist | founder @ zylon labs & zuup | hack club leader | intel student ambassador**
 
@@ -17,7 +17,7 @@ currently balancing life as a high school student at bal bharati public school, 
 - founder at **zuup** — teaching digital skills and freelancing to underserved youth
 - **intel student ambassador** — advocating for technology-driven innovation in education
 - **hack club leader** — conducting coding workshops, mentoring peers, fostering open-source collaboration
-- student at bbpsrh, delhi — somehow managing to ace classes while shipping products
+
 
 ---
 
