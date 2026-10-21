@@ -18,7 +18,7 @@ CEO sir @Zuup • developer • hardware guy • yes i vibecode
 
 ```bash
 > delhi, india
-> building startups while surviving cbse
+> building stuff while surviving college
 > currently making hardware talk to ai
 ```
 
