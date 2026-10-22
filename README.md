@@ -16,56 +16,7 @@ CEO sir @Zuup • developer • hardware guy • yes i vibecode
 
 ---
 
-```bash
-> delhi, india
-> building stuff while surviving college
-> currently making hardware talk to ai
-```
-
----
-
 # projects
-
-## zuuppad
-
-9x9 programmable macropad built with:
-- rotary encoder
-- oled display
-- qmk firmware
-- circuitpython support
-- layered shortcuts
-- custom hardware workflow
-
-```txt
-hardware projects heal my soul
-```
-
-[view repo →](https://github.com/Jagrit0711/zuuppad)
-
----
-
-## validate
-
-bulk certificate generation + digital verification platform.
-
-upload csv files → generate certificates → store in supabase → verify instantly using qr codes.
-
-```txt
-because fake certificates are painfully easy to make
-```
-
-**stack**
-```yaml
-next.js
-supabase
-qr generation
-csv processing
-pdf generation
-```
-
-[view repo →](https://github.com/Jagrit0711/validate)
-
----
 
 ## zuup auth
 
@@ -79,43 +30,33 @@ features:
 - audit logs
 - centralized authentication
 
-```txt
-one account across every zuup product
-```
-
-[view repo →](https://github.com/Jagrit0711/zuup-central-auth)
+[view repo →](https://github.com/Jagrit0711/zuup-auth-worker)
 
 ---
 
-## hatchOS
+## Aadhaar React Scanner
 
-custom raspberry pi environment for hardware control, automation, and ai experimentation.
+A pure Javascript, zero-backend, client-side library to decode Aadhaar Secure QR codes, extract biometric JP2 photos, cryptographically verify UIDAI signatures, and render a beautiful 3D virtual identity card.
 
-react dashboard + central server + physical hardware integration.
 
-```txt
-basically connecting random machines to the internet and hoping for the best
+```text
+npm i aadhaar-react-scanner
 ```
-
-[view repo →](https://github.com/Jagrit0711/HatchOS)
-
 ---
 
-## dvork security
+## Online coding idle
 
-ai-powered cctv and attendance infrastructure for schools.
+Browser based coding idle working on piston api
 
 features:
-- facial recognition
-- smart attendance
-- local processing
-- hardware integration
-- real-time monitoring
+- Run code in the browser with real execution support
+- Multi-language editing experience for Python, JavaScript, TypeScript, Java, C, C++, Go, Rust, and more
+- GitHub sync for saving and tracking project work (testing rn)
+- Shareable code links for read-only viewing
+- Secure login flow through the Zuup authentication gateway
+- Modern React + Vite + Tailwind frontend 
 
-```txt
-turning school infrastructure into a cyberpunk project
-```
-
+[view repo →](https://github.com/Jagrit0711/zuup-code)
 ---
 
 ## AI skill gap identifier
@@ -133,15 +74,39 @@ published research project.
 [view repo →](https://github.com/Jagrit0711/AI-Based-Skill-Gap-Identification-for-Freelancing-Readiness-in-Marginalized-Group)
 
 ---
+## zuuppad
 
-# stack
+9x9 programmable macropad built with:
+- rotary encoder
+- oled display
+- qmk firmware
+- circuitpython support
+- layered shortcuts
+- custom hardware workflow
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,firebase,supabase,tensorflow,opencv,git,linux,raspberrypi,vscode&perline=8"/>
-</p>
+[view repo →](https://github.com/Jagrit0711/zuuppad)
 
 ---
 
+## validate
+
+bulk certificate generation + digital verification platform.
+
+upload csv files → generate certificates → store in supabase → verify instantly using qr codes.
+
+[view repo →](https://github.com/Jagrit0711/validate)
+
+---
+
+# Currently working on 
+## Ai native OS (vision)
+ZuuposOS is not an OS with an AI assistant bolted on.  
+The AI **is** the kernel's personality layer. It boots, perceives the hardware, understands context, and acts — autonomously — without a user telling it what to do.
+
+Think Taby, but it *is* the entire operating system.
+[view repo →](https://github.com/Jagrit0711/zuupos)
+
+---
 # github stats
 
 <p align="center">
@@ -176,12 +141,14 @@ published research project.
 
 ---
 
-# currently breaking
+# currently interested in 
 
-- hardware systems
-- offline events
+- hardware niche pcb designing 
+- agentic ai 
 
 ---
+
+
 
 # links
 
